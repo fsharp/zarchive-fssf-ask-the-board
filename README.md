@@ -2,7 +2,7 @@
 
 The purpose of this project is to request your comments, ideas and proposals on what should be addressed by the F# Software Foundation Board of Trustees.
 
-To add your comment, idea, question or proposal, please, create a new issue according to [the example template](). We encourage you to add as many details as possible. New issues are welcomed at any time.
+To add your comment, idea, question or proposal, please, create a new issue according to [this sample issue](https://github.com/fsharp/fssf-ask-the-board/blob/master/SampleIssue.md). We encourage you to add as many details as possible. New issues are welcomed at any time.
 
 Issues will be addressed by the Board by replying to the submitted issue with the response, or the reference to meeting notes, in case they reference and address the submitted item.
 
