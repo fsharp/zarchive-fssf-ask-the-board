@@ -8,4 +8,6 @@ Issues will be addressed by the Board by replying to the submitted issue with th
 
 Due to time limitations, some of the submitted items might not be discussed during the closest Board meeting. In that case the Board might put them on one of the future meetings' agenda and the submitter will be notified of the fact. The Board might also decide to review certain items outside of the monthly meeting via other communication channels, and will do their best in providing timely answers.
 
+You are welcome to upvote/emoji existing issues to show your interest and support!
+
 _F# Software Foundation Board of Trustees_
